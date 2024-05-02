@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5341CFDF-F9FE-4B80-A1F4-6030650DA623"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A42A5698-9C7D-4194-AC40-2A9DA513F611"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E7DB184-3861-423A-B257-B842F3819DEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8875517-78F4-4B70-BD99-8DEB9349D8E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24E7F89A-3A2B-4D83-B02D-FD0E35F447BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Settings/AuthViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "181D69EC-6542-4C01-934C-6CC23734C4B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5ECD9E25-307B-4F4C-892C-1ED4090B70E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Main/MainTabView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAE0EA6A-9D99-4806-9334-1A5F59EC6089"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Main/MainTabView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BAE0EA6A-9D99-4806-9334-1A5F59EC6089 - 968bca42f849327e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.MainTabView.body.getter : some"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/View/Main/MainTabView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "BAE0EA6A-9D99-4806-9334-1A5F59EC6089 - 968bca42f849327e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.MainTabView.body.getter : some"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/View/Main/MainTabView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F01B2F1E-2383-4172-A421-29AED471B217"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "F01B2F1E-2383-4172-A421-29AED471B217 - a34d83a493e978fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ContentView.viewModel.getter : AnyaMessenger.AuthViewModel"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F01B2F1E-2383-4172-A421-29AED471B217 - 1ef71e616d84e899"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ContentView.$viewModel.getter : SwiftUI.EnvironmentObject&lt;AnyaMessenger.AuthViewModel&gt;.Wrapper"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F01B2F1E-2383-4172-A421-29AED471B217 - c3c3a8ea07e32493"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ContentView.init() -&gt; AnyaMessenger.ContentView"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "321224DA-E618-4657-A31D-AF8A0807FFD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Siren/CreateSirenListModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "createSirenList(name:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6CC7244-A0DC-4B00-BA24-ACA2F3811021"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Location/LocationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Messages/ChatSceneModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ChatSceneModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - ea11a3e0ac744528"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of AnyaMessenger.ChatSceneModel.messageToSetVisible : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/ViewModel/Messages/ChatSceneModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - 840b357b555b350a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.messageToSetVisible.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/ViewModel/Messages/ChatSceneModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - 5f80e1e265d5406a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.messageToSetVisible.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/ViewModel/Messages/ChatSceneModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - bca2e636a325479"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.messageToSetVisible.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/ViewModel/Messages/ChatSceneModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - c3cd1c66284b265e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.messageToSetVisible.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - a0fb84bdf9c170ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.$messageToSetVisible.getter : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/ViewModel/Messages/ChatSceneModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - e3a23966feab8b81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.$messageToSetVisible.setter : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - 373dbba80820b4b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.$messageToSetVisible.modify : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "50F3DDCC-E334-40E1-B8CC-3FD34AC0F017 - d0d9922a4853bff5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyaMessenger.ChatSceneModel.$messageToSetVisible.modify : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44745556-9DC7-4B93-BFAE-704DB29664BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Conversations/NewMessageScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "44745556-9DC7-4B93-BFAE-704DB29664BD - 34d926ca9c345e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (AnyaMessenger.User) -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.Spacer&gt;, SwiftUI.Button&lt;AnyaMessenger.UserCell&gt;)&gt; in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;AnyaMessenger.User&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.Spacer&gt;, SwiftUI.Button&lt;AnyaMessenger.UserCell&gt;)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in AnyaMessenger.NewMessageScene.body.getter : some"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/View/Conversations/NewMessageScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "44745556-9DC7-4B93-BFAE-704DB29664BD - e6ad94e4237dbec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #2 () -&gt; () in closure #1 (AnyaMessenger.User) -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.Spacer&gt;, SwiftUI.Button&lt;AnyaMessenger.UserCell&gt;)&gt; in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;AnyaMessenger.User&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.Spacer&gt;, SwiftUI.Button&lt;AnyaMessenger.UserCell&gt;)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in AnyaMessenger.NewMessageScene.body.getter : some"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/View/Conversations/NewMessageScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4521572F-6AF3-4F7A-905F-21725F9EA1D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Conversations/NewMessageScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC309793-EF0B-4B6C-B62C-BB12BA15FD14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Conversations/NewMessageScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F88731C7-2D34-4A88-AE51-25993FD0CB1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "sendMessageToSirenList(riskDescription:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AB506E5-1D39-4D6F-8867-E1EE35FD430F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "sendMessageToSirenList(riskDescription:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5AB506E5-1D39-4D6F-8867-E1EE35FD430F - bb6eb427c3ba2341"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AnyaMessenger.SirenViewModel.sendMessageToSirenList(riskDescription: Swift.String) -&gt; ()"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "5AB506E5-1D39-4D6F-8867-E1EE35FD430F - ff4d0d074b8ae9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AnyaMessenger.SirenViewModel.sendMessageToSirenList(riskDescription: Swift.String) -&gt; ()"
+                  moduleName = "AnyaMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chiamakabrowneyes/Desktop/IOSDevProjects/AnyaMessenger/AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F82F5F1-BADD-4FE5-A76C-C42484181222"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "sendMessageToSirenList(riskDescription:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ADDD03D-D22A-4AF9-99F2-B54CF09AD7E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "sendMessageToSirenList(riskDescription:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF678AD0-D30F-45EA-9206-843D06B83BC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "sendMessageToSirenList(riskDescription:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D661E5EB-C7E6-487D-AABB-42E06270BFEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Siren/SirenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "addRiskTypes(riskType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FA3D1AD-13AB-49AC-913C-7253708B82B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50248E97-E9BB-470F-A7AD-AA41FD9640DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1053B45-23BF-4882-8EFC-C305B2D53ADD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE2509F6-F175-461F-9C7F-90D2DE5A1A6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "createUserActivity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37931D07-F189-49D3-BE4D-4F943F63A12E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "createUserActivity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEDCA7FB-15AA-43DB-9289-A4D9565613AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5753B93F-D67C-4252-A268-420D3D744155"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "automateSiren()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C73B9CA-BA92-4CD7-A20C-5426E5C7BD4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F545B983-01A3-4EF4-A17C-F1FC68182E62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C0DCB96-566B-4137-8271-0EB9CCC04EF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/View/Siren/SirenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C625D539-D96B-4465-808C-EF034B0C1B62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/ViewModel/Location/AlertPointerManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "observePointers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC233275-448D-4CB7-A8DC-F68A3E8C135D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyaMessenger/Model/ForecastModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Report"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
